@@ -1,0 +1,13 @@
+shiba_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:98,327,168,147
+eyes04
+bounds:2,423,94,51
+offsets:16,34,126,118
+white_effect
+bounds:2,2,323,411
+offsets:0,0,323,413
+rotate:90

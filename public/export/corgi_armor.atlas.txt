@@ -1,0 +1,14 @@
+corgi_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:97,314,170,220
+rotate:90
+eyes04
+bounds:2,428,93,56
+offsets:19,21,130,100
+white_effect
+bounds:2,2,310,419
+offsets:42,23,360,444
+rotate:90

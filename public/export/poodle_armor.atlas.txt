@@ -1,0 +1,13 @@
+poodle_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:108,314,166,153
+eyes04
+bounds:2,409,104,58
+offsets:11,30,126,118
+white_effect
+bounds:2,2,310,374
+offsets:42,23,360,433
+rotate:90

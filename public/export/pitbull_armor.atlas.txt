@@ -1,0 +1,14 @@
+pitbull_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:108,318,176,192
+rotate:90
+eyes04
+bounds:2,450,104,44
+offsets:12,37,126,118
+white_effect
+bounds:2,2,314,403
+offsets:41,23,360,439
+rotate:90

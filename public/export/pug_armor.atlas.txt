@@ -1,0 +1,13 @@
+pug_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:150,316,184,179
+eyes04
+bounds:2,423,146,72
+offsets:12,22,170,118
+white_effect
+bounds:2,2,312,371
+offsets:41,23,360,433
+rotate:90

@@ -1,0 +1,14 @@
+lab_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:100,333,173,207
+rotate:90
+eyes04
+bounds:2,457,96,49
+offsets:15,34,126,118
+white_effect
+bounds:2,2,329,382
+offsets:3,0,336,382
+rotate:90

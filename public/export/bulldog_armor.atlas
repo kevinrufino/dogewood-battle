@@ -1,0 +1,14 @@
+bulldog_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:108,316,170,192
+rotate:90
+eyes04
+bounds:2,438,104,48
+offsets:11,35,126,118
+white_effect
+bounds:2,2,312,372
+offsets:41,23,360,433
+rotate:90

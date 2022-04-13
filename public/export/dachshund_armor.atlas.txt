@@ -1,0 +1,14 @@
+dachshund_armor.png
+size:512,512
+filter:Linear,Linear
+pma:true
+armor
+bounds:102,315,160,215
+rotate:90
+eyes04
+bounds:2,423,98,52
+offsets:16,24,130,100
+white_effect
+bounds:2,2,311,368
+offsets:41,23,360,433
+rotate:90
